@@ -1,1 +1,1 @@
-# WEDE5020POE-PART-3
+i have added javascript to the html and css to make the website responsive .i got assisted by {youtube}. Available at :https://www.youtube.com/watch?v=EerdGm-ehJQ&pp=0gcJCf0Ao7VqN5tD (Accessed: 15 june 2025).The contact page and service page are the ones which are responsive.
