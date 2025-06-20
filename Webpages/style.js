@@ -57,6 +57,14 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 
+//This is the dynamic footer year
+document.addEventListener("DOMConterLoaded", function () {
+        const yearSpan = document.getElementById("year");
+        if (yearSpan) {
+            const currentyear = newDate().getFullYear();
+            yearSpan.textContent = currentyear;
+        }
+});
 
 
 
